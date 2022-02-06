@@ -1,0 +1,36 @@
+{
+    "id": "QJAEH5X64Z",
+    "nom": "alba",
+    "prenom": "koffi",
+    "profession": "pompier",
+    "age": "18",
+    "sexe": "M",
+    "maladie": [
+        {
+            "id": "P3KP3FWVYA",
+            "nom": "KysteOvarien",
+            "symptomes": [
+                "diarrhee",
+                "saignement"
+            ],
+            "caracteristique": [
+                "diarrhee",
+                "cool"
+            ]
+        },
+        {
+            "id": "P3KP3FWVYA",
+            "nom": "KysteOvarien",
+            "symptomes": [
+                "diarrhee",
+                "saignement"
+            ],
+            "caracteristique": [
+                "diarrhee",
+                "cool"
+            ]
+        }
+    ],
+    "bilan_sanguin": "sool",
+    "dernier_frottis": "01-Feb-2022 (12:57:12.642638)"
+}
