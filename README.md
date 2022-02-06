@@ -9,7 +9,7 @@ le projet consiste a créer un programme permettant de récolter des données de
 - ATTIKPO Akrabal Godwin
 - APAFLO Doko Nicole 
 - FARE Gbandi Samuel
-- 
+- YENTCHABRE Assibi Dorcas
 
 ## les classes 
 
